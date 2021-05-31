@@ -1,0 +1,10 @@
+title: Sierpinski Triangle
+description: Draws a Sierpinski Triangle
+author: LBob / TooB
+splash:
+  file: assets/sierpinski-image.png
+icon:
+  file: assets/sierpinski-icon.png
+version: v1.0.2
+category: demo
+url: https://github.com/ThatOtherOtherBob/Sierpinski
